@@ -1,5 +1,7 @@
 # pinguimquest
 
+FEITO POR: ANA SOFIA GRAÇA N.77727
+
 Ficheiros:
 
 character.png
